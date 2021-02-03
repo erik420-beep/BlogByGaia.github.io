@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: C:\Users\Erik\Documents\GitHub\BlogByGaia.github.io\assets\img\gaia.jpg.jpg
+  src: \assets\img\gaia.jpg.jpg
   alt: website picture
 ---
 
