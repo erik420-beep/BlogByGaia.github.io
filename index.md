@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/gaia.jpg
+  src: /assets/img/gaia.jpg.jpg
   alt: website picture
 ---
 
